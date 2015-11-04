@@ -1,6 +1,10 @@
 # week-8
 Homework (High-Low Card Game)
 
+> All files in this repository is my own source code.
+but I found a good deck of cards C# source code here, https://deckofcards.codeplex.com.
+So I just bookmark inside this readme file.
+
 ###### An example of  High-Low Card Game console application result
 
 ```
